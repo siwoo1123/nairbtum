@@ -68,4 +68,5 @@ input {
     position: absolute;
     bottom: 0;
     left: 0;
+    margin-left: 0.5rem;
 }
